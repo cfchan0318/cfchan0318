@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Chi Fung Chan, Marco @cfchan0318
+- 👋 Hi, I’m Chi Fung Chan, you can call me Marco
 - 👀 I’m interested in Web Dev, App Dev and Data Science
-- 🌱 I’m currently learning Data Science with Python, SQL and more with Codecademy
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning MERN Stack
 - 📫 How to reach me ... cf.chan0318@gmail.com
 
 <!---
