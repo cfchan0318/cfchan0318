@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chi Fung Chan, you can call me Marco
 - 👀 I’m interested in Web Dev, App Dev and Data Science
-- 🌱 I’m currently learning MERN Stack
+- 🌱 I’m currently learning MERN/ React+Sequelize+PostgresSQL Stack
 - 📫 How to reach me ... cf.chan0318@gmail.com
 
 <!---
